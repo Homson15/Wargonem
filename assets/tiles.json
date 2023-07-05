@@ -1,0 +1,22 @@
+{
+
+  "blank": {
+    "res": [64,64],
+    "image": "blank.png",
+    "solid": true
+  },
+
+  "g": {
+    "res": [64, 64],
+    "image": "grass.png",
+    "solid": false
+  },
+
+  "p": {
+    "res": [64, 64],
+    "image": "path.png",
+    "solid": false
+  }
+
+
+}
